@@ -1,0 +1,8 @@
+config FrameRateDivisor 1
+
+bind !numlock exec fps30.txt
+
+input /echo FPS set to [60]. 
+showfps 1
+wait 30
+showfps 0

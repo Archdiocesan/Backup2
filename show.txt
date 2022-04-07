@@ -1,0 +1,6 @@
+showfps 1
+load timers
+load ffxidb
+lua l equipviewer
+
+bind %numlock exec showx.txt

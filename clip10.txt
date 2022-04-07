@@ -1,0 +1,3 @@
+config ClippingPlane 0.5
+
+bind ^numlock exec clip1.txt
